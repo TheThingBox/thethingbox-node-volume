@@ -1,0 +1,9 @@
+{
+  "name": "volume",
+  "version": "1.0.0",
+  "homepage": "http://thethingbox.io/",
+  "private": true,
+  "dependencies": {
+    "loudness": "0.2.2"
+  }
+}
